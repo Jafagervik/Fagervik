@@ -1,0 +1,2 @@
+# Fagervik
+A funky website
